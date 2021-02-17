@@ -5,7 +5,7 @@ Course Material / Full-Stack Web Development with React Specialization (Coursera
 
 Json Server - setup on heroku : https://jsonserver-courserareact.herokuapp.com/
 
-Link to the project : https://fervent-kepler-17cd62.netlify.app/home
+Link to the project : https://fervent-kepler-17cd62.netlify.app
 
 # Coursera - Full-Stack Web Development with React
 
