@@ -1,3 +1,7 @@
+
+
+![alt text](<https://i.ibb.co/mXz2qfr/Web-1920-1.png>)
+
 # This repository is a part of my course to learn React
 Course Material / Full-Stack Web Development with React Specialization (Coursera)
 
