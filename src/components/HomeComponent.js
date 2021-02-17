@@ -25,7 +25,8 @@ function RenderCard({ item, isLoading, errorMessage }) {
         }}
       >
         <Card>
-          <CardImg src={baseUrl + item.image} alt={item.name} />
+       { console.log("check me"+item)}
+          <CardImg src={item.image} alt={item.name} />
           <CardBody>
             <CardTitle>{item.name}</CardTitle>
             {item.designation ? (

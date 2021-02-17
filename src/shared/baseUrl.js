@@ -1,2 +1,2 @@
 // change the server address here if needed
-export const baseUrl = 'http://localhost:3001/';
+export const baseUrl = 'https://jsonserver-courserareact.herokuapp.com/';
