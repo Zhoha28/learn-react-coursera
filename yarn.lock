@@ -4203,9 +4203,9 @@ decimal.js@^10.2.0:
   integrity sha512-KaL7+6Fw6i5A2XSnsbhm/6B+NuEA7TZ4vqxnd5tXz9sbKtrN9Srj8ab4vKVdK8YAqZO9P1kg45Y6YLoduPf+kw==
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 dedent@^0.7.0:
   version "0.7.0"
@@ -10175,13 +10175,12 @@ raw-body@2.4.0:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-react-animation-components@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-animation-components/-/react-animation-components-3.0.0.tgz#e6a67a3cae88c7c53e44c115fc4b59ad7300cb2c"
-  integrity sha512-9BhSSQ+8ZW2RciRA1wmIybZgmyC6myPXmkOR3zBZtt5V8Zm63fxSwb+ooiZZbgC91ASS/1LHjftdzv9Y5izQFA==
+react-animation-components@^1.0.2:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-animation-components/-/react-animation-components-1.1.0.tgz#93ed9b325300597fe4a4956dbb10d6741486fd5d"
+  integrity sha512-mRfdF4ydJzN17yrsBHsxIGJoqKZQnRl0jHCajw2+/CJ5s7LBohixe/dYwnRYVj4w2+lM++y6qUXzSwWxXY5iDg==
   dependencies:
     jest-cli "^21.2.1"
-    lodash "^4.17.5"
 
 react-app-polyfill@^2.0.0:
   version "2.0.0"
